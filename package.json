@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/LiamBruna/Karla-app.git",
+  "homepage": "https://LiamBruna.github.io/Karla-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
