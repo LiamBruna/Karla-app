@@ -12,11 +12,11 @@ function App() {
           'BUENAS NOCHES MI WAWITA HERMOSA, Mi amor por <br /> ti durará hasta que caiga el último pétalo'
         );
       } else if (hours >= 6 && hours < 12) {
-        setMessage('BUENOS DÍAS MI PRINCESA');
+        setMessage('BUENOS DÍAS MI PRINCESA, Mi amor por <br /> ti durará hasta que caiga el último pétalo');
       } else if (hours >= 12 && hours < 18) {
-        setMessage('BUENAS TARDES MI AMOR');
+        setMessage('BUENAS TARDES MI AMOR, Mi amor por <br /> ti durará hasta que caiga el último pétalo');
       } else {
-        setMessage('BUENAS NOCHES MI BB PRECIOSA');
+        setMessage('BUENAS NOCHES MI BB PRECIOSA, Mi amor por <br /> ti durará hasta que caiga el último pétalo');
       }
     };
 
