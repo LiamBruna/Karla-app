@@ -8,7 +8,7 @@ function App() {
     const updateMessage = () => {
       const hours = new Date().getHours();
       if (hours >= 22 || hours < 6) {
-        setMessage('BUENAS NOCHES MI WAWITA HERMOSA');
+        setMessage('BUENAS NOCHES MI WAWITA HERMOSA, Mi amor por ti durará hasta que caiga el último pétalo');
       } else if (hours >= 6 && hours < 12) {
         setMessage('BUENOS DÍAS MI PRINCESA');
       } else if (hours >= 12 && hours < 18) {
